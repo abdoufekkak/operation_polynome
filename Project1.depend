@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1641126908 source:f:\projt dargham - copie\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<stdlib.h>
+	"polynom.h"
+	<ctype.h>
+
+1640986690 f:\projt dargham - copie\polynom.h
+	"monom.h"
+	<iostream>
+	<stdlib.h>
+
+1640555866 f:\projt dargham - copie\monom.h
+	<iostream>
+	"rationnell.h"
+
+1640554140 f:\projt dargham - copie\rationnell.h
+	<iostream>
+	<conio.h>
+
